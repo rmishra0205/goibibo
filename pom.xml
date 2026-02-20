@@ -12,7 +12,7 @@
 	<artifactId>goibibo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>goibibo</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>microservice project for Spring Boot</description>
 	<url/>
 	<licenses>
